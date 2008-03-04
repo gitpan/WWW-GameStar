@@ -1,8 +1,6 @@
 Changes
-GameStar.xs
 Makefile.PL
 MANIFEST
-ppport.h
 README
 t/WWW-GameStar.t
 lib/WWW/GameStar.pm

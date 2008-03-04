@@ -213,12 +213,12 @@ use strict;
 
 =head1 SEE ALSO
 
-NET::IPFilterSimple
-NET::IPFilter
-
 www.zoozle.net
 www.zoozle.org
 www.zoozle.biz
+
+NET::IPFilterSimple
+NET::IPFilter
 
 =head1 AUTHOR
 
